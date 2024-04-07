@@ -1,0 +1,27 @@
+{
+  "name": "web3-perf",
+  "version": "2.0.1",
+  "description": "Immediately returns the result of add two numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:anathann/web3-perf.git"
+  },
+  "keywords": [
+    "add",
+    "simple",
+    "number",
+    "calculate"
+  ],
+  "author": "t1mkeeper",
+  "license": "MIT",
+  "homepage": "https://github.com/anathann/web3-perf",
+  "dependencies": {
+    "uniqid": "^5.4.0",
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  }
+}
