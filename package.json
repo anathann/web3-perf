@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:anathann/web3-perf.git"
+    "url": "https://github.com/anathann/web3-perf"
   },
   "keywords": [
     "add",
